@@ -1,0 +1,19 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": " Express based app that returns hello world",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.axa.com/Gotthard/node-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
